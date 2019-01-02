@@ -2,7 +2,7 @@
 <definitions>
   <definition>
     <key>text_index_home_menu</key>
-    <value><![CDATA[Rumah]]></value>
+    <value><![CDATA[Beranda]]></value>
   </definition>
   <definition>
     <key>text_product_special_menu</key>
@@ -14,11 +14,11 @@
   </definition>
   <definition>
     <key>text_checkout_cart_menu</key>
-    <value><![CDATA[Gerobak]]></value>
+    <value><![CDATA[Keranjang]]></value>
   </definition>
   <definition>
     <key>text_checkout_shipping_menu</key>
-    <value><![CDATA[Periksa]]></value>
+    <value><![CDATA[Pengiriman]]></value>
   </definition>
   <definition>
     <key>text_account_login_menu</key>
